@@ -1,2 +1,2 @@
 #Git and Github course
-My first repositories
+My first repository
