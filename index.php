@@ -8,7 +8,13 @@
     <title>Git</title>
 </head>
 <body>
-<?="My first work with Git"?>
-<?="Hello GitHub"?>
+<?="My first work with Git"?> <br>
+<?="Hello GitHub"?> <br>
+<?php
+$num = 13;
+if ($num < 15 && $num > 7) {
+    echo $num;
+} else echo "Reset your number again";
+?>
 </body>
 </html>
