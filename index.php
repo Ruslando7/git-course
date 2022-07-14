@@ -8,6 +8,7 @@
     <title>Git</title>
 </head>
 <body>
-<?="My work with Git"?>
+<?="My first work with Git"?>
+<?="Hello GitHub"?>
 </body>
 </html>
